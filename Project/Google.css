@@ -9,6 +9,7 @@ input {
     border-style: solid;
     border-radius: 50px;
     border-color: beige;
+    box-shadow: 2px 2px 5px grey;
 }
 
 .one {
