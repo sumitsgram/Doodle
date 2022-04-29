@@ -1,15 +1,21 @@
-input {
+.search {
+    color: grey;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 550px;
-    height: 45px;
-    text-indent: 65px;
-    font-size: larger;
-    border-style: solid;
+    height: 44px;
+    border: 1px solid beige;
     border-radius: 50px;
-    border-color: beige;
-    box-shadow: 2px 2px 5px grey;
+    box-shadow: 1px 1px 5px grey;
+}
+
+input {
+    width: 400px;
+    height: 38px;
+    font-size: medium;
+    border-style: hidden;
+    border-radius: 50px;
 }
 
 .one {
